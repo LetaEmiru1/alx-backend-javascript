@@ -9,3 +9,4 @@ class Car {
     return new this.constructor();
   }
 }
+export defualt Car;
